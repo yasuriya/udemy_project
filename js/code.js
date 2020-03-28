@@ -34,5 +34,6 @@
 
 // console.log(typeof lll);
 
-let answer = confirm("Are you here?") ? alert("welcome") : alert("get out");
+// let answer = confirm("Are you here?") ? alert("welcome") : alert("get out");
  
+
